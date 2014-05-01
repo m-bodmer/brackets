@@ -312,7 +312,7 @@ define({
     "CMD_ADD_NEXT_MATCH"                  : "Nächsten Treffer zur Auswahl hinzufügen",
     "CMD_SKIP_CURRENT_MATCH"              : "Überspringen und nächsten Treffer hinzufügen",
     "CMD_FIND_IN_FILES"                   : "Im Projekt suchen",
-    "CMD_FIND_IN_SELECTED"                : "Suchen in der Ausgewählten Datei/Ordner",
+    "CMD_FIND_IN_SELECTED"                : "Suchen in ausgewählter Datei/Ordner",
     "CMD_FIND_IN_SUBTREE"                 : "Suchen in\u2026",
     "CMD_REPLACE"                         : "Ersetzen",
 
